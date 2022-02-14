@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github.com/Snatch2win/github-readme-stats
+(https://github-readme-stats.vercel.app/api?username=snatch2win&show_icons=true&theme=radical)
+(https://github.com/snatch2win/github-readme-stats)
 <!--
 **snatch2win/snatch2win** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
